@@ -1,0 +1,5 @@
+User{Id='0, age=24, name=' SACHIN SAINI', course='BTech'}
+User{Id='1, age=20, name=' NITIN KUMAR', course='BTech'}
+User{Id='2, age=28, name=' LUCKY SINGH', course='BTech'}
+User{Id='3, age=27, name=' SHEKHAR KUMAR', course='BTech'}
+User{Id='4, age=29, name=' ABHISHEK TYGI', course='BTech'}
